@@ -1,0 +1,15 @@
+{
+  "name": "@chakri-git-hub/scss-files-only",
+  "version": "1.0.0",
+  "description": "scss files only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "URL": "https://github.com/chakri-git-hub/scss-files-only"
+  },
+  "author": "",
+  "license": "ISC"
+}
